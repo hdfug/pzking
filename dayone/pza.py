@@ -176,4 +176,3 @@ if __name__ == "__main__":
         clip_percentile=args.clip,
         gamma=args.gamma
     )
-    #demo
