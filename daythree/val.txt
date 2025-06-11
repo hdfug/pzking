@@ -47,7 +47,7 @@ apple/image_23582.png 0
 apple/image_43575.png 0
 apple/image_56099.png 0
 apple/image_50377.png 0
-apple/image_41172.png 0
+apple/image_41172.png 0#
 apple/image_15843.png 0
 apple/image_42631.png 0
 apple/image_53066.png 0
