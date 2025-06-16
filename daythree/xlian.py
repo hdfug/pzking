@@ -18,7 +18,7 @@ def prepare_data(data_dir='C:/Users/彭子昂/PycharmProjects/suanfa3/daythree/I
         transforms.ToTensor(),
         transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),
     ])
-
+#
     # 加载完整数据集
     full_dataset = ImageFolder(root=data_dir, transform=transform)
 
